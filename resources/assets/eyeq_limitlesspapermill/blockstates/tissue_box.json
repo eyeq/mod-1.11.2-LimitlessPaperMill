@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "eyeq_limitlesspapermill:tissue_box"
+    },
+    "axis=z": {
+      "model": "eyeq_limitlesspapermill:tissue_box",
+      "y": 90,
+      "uvlock": true
+    }
+  }
+}
